@@ -1,1 +1,1 @@
-# C++ Codes with structured way of learing.
+# A structured approach to learning C++ programming.
